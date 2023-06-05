@@ -1,0 +1,15 @@
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.deps.json
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.runtimeconfig.json
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.dll
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.pdb
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.AssemblyReference.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfo.cs
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.dll
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/refint/AboutMyEnvironment.dll
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.pdb
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.genruntimeconfig.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net7.0/ref/AboutMyEnvironment.dll
