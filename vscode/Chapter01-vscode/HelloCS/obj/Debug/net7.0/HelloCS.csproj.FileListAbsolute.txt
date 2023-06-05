@@ -1,0 +1,15 @@
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/bin/Debug/net7.0/HelloCS
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/bin/Debug/net7.0/HelloCS.deps.json
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/bin/Debug/net7.0/HelloCS.runtimeconfig.json
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/bin/Debug/net7.0/HelloCS.dll
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/bin/Debug/net7.0/HelloCS.pdb
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.csproj.AssemblyReference.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.AssemblyInfoInputs.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.AssemblyInfo.cs
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.csproj.CoreCompileInputs.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.dll
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/refint/HelloCS.dll
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.pdb
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/HelloCS.genruntimeconfig.cache
+/workspaces/dotnet_demo/vscode/Chapter01-vscode/HelloCS/obj/Debug/net7.0/ref/HelloCS.dll
